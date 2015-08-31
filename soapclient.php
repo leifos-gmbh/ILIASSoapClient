@@ -74,7 +74,7 @@ $par = array(
   				'<Gender><![CDATA[m]]></Gender>'.
   				'<Firstname><![CDATA[Tim]]></Firstname>'.
   				'<Lastname><![CDATA[Thaler]]></Lastname>'.
-  				'<Email><![CDATA[web@web.de]]></Email>'.
+  				'<Email><![CDATA[doesnotexist@ilias.de]]></Email>'.
  			'</User>'.
 		'</Users>',
 	"conflict_role" => 3,						// ignore on conflict
